@@ -1,0 +1,3 @@
+[submodule ".themes/bold_and_blue"]
+	path = .themes/bold_and_blue
+	url = https://github.com/johnkeith/boldandblue.git
