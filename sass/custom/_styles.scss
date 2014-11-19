@@ -100,8 +100,8 @@ body {
   }
 }
 @media only screen and (min-width:992px) {
-  body { 
-    font-size: 1.3em; 
+  body {
+    font-size: 1.3em;
   }
   .collapse-sidebar aside.sidebar {
     background: #fff;
@@ -110,25 +110,25 @@ body {
 .meta {
   font-family: $serif;
 }
-.sticky {  
-    position: fixed;  
-    width:100%;  
-    left: 0;  
-    top: 0;  
-    z-index: 100;  
+.sticky {
+    position: fixed;
+    width:100%;
+    left: 0;
+    top: 0;
+    z-index: 100;
 }
 ::-webkit-input-placeholder {
    color: $link-color;
 }
 :-moz-placeholder { /* Firefox 18- */
-   color: $link-color;  
+   color: $link-color;
 }
 ::-moz-placeholder {  /* Firefox 19+ */
-   color: $link-color;  
+   color: $link-color;
 }
-:-ms-input-placeholder {  
-   color: $link-color;  
-}  
+:-ms-input-placeholder {
+   color: $link-color;
+}
 
 .highlight, html .gist .gist-file .gist-syntax .gist-highlight {
   table {
