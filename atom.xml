@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Bodeco]]></title>
+  <title><![CDATA[Bodeco Inc]]></title>
   <link href="http://bodeco.github.io/atom.xml" rel="self"/>
   <link href="http://bodeco.github.io/"/>
-  <updated>2014-11-18T18:47:14-08:00</updated>
+  <updated>2014-11-18T19:13:58-08:00</updated>
   <id>http://bodeco.github.io/</id>
   <author>
     <name><![CDATA[Bodeco Inc]]></name>
