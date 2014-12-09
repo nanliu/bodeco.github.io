@@ -1,5 +1,10 @@
 ## What is Octopress?
 
+
+**NOTE ABOUT THEMES**
+
+Please ensure you run git submodule init && git submodule update before generating static content
+ 
 Octopress is [Jekyll](https://github.com/mojombo/jekyll) blogging at its finest.
 
 1. **Octopress sports a clean responsive theme** written in semantic HTML5, focused on readability and friendliness toward mobile devices.
