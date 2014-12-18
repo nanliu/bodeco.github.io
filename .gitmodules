@@ -1,3 +1,6 @@
 [submodule ".themes/bold_and_blue"]
 	path = .themes/bold_and_blue
 	url = https://github.com/johnkeith/boldandblue.git
+[submodule ".themes/octostrap3"]
+	path = .themes/octostrap3
+	url = https://github.com/kAworu/octostrap3.git
