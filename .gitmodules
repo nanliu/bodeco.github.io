@@ -1,6 +1,0 @@
-[submodule ".themes/bold_and_blue"]
-	path = .themes/bold_and_blue
-	url = https://github.com/johnkeith/boldandblue.git
-[submodule ".themes/solid"]
-	path = .themes/solid
-	url = https://github.com/st4ple/solid-jekyll
